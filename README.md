@@ -1,4 +1,5 @@
-<h1 align="center>  Hi ! 👋 I'm Ömer Uruç</h1>
+<h1 align="center">  Hi ! 👋 I'm Ömer Uruç </h1>
+  
 <h2 align="center">Computer Science Student & Passionate Full Stack Java Developer</h2>
 
 <p align="center"> 
