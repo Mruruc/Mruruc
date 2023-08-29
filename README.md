@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  🔭 Feel Free to Check out my <strong> 🍃 Functional Programing Repository 🍃 </strong> : <a href="https://github.com/Mruruc/Functional_Programing">https://github.com/Mruruc/Functional_Programing</a>
+</p>
+
+<p align="center">
   🔭 Check out my projects here: <a href="https://github.com/Mruruc/FullStackApplications">https://github.com/Mruruc/FullStackApplications</a>
 </p>
 
