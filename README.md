@@ -4,7 +4,8 @@
 
 
 <p align="center">
-  🔭 Feel Free to Check out my <strong> 🍃 Functional Programing Repository 🍃 </strong> : <a href="https://github.com/Mruruc/Functional_Programing">https://github.com/Mruruc/Functional_Programing</a>
+  🔭  🍃 Functional Programing in Java 🍃 </strong> 
+  <a href="https://github.com/Mruruc/Functional_Programing"> <em> &#9935; Lambda Expression,Functional Interface and Stream API .</em></a>
 </p> 
 <br/>
 <p align="center">
