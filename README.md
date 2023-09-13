@@ -1,11 +1,7 @@
-<h1 align="center">  Hi ! 👋 I'm Ömer Uruç </h1>
+<h1 align="center">  Hi ! 👋 </h1>
   
-<h2 align="center">Computer Science Student & Passionate Full Stack Java Developer</h2>
+<h2 align="center">World Of Computer Science </h2>
 
-<p align="center"> 
-  I'm currently exploring the dynamic world of Full Stack Development, focusing on Java Spring, SQL, and Web App development.
-  Being a perpetual learner, I strive to enhance my skills and delve deeper into the technology world.
-</p>
 
 <p align="center">
   🔭 Feel Free to Check out my <strong> 🍃 Functional Programing Repository 🍃 </strong> : <a href="https://github.com/Mruruc/Functional_Programing">https://github.com/Mruruc/Functional_Programing</a>
@@ -17,7 +13,7 @@
 
 
 <p align="center">
-  💬 Feel free to ask me about my journey, my projects, and any technical queries related to Java, Spring, SQL, or Web App Development. 
+  💬 Feel free to ask me about my journey, my projects, and any technical queries related to Java, Spring, SQL,MongoDB,JavaScript,HTML,CSS,React,FullStack Development or Web App Development. 
 </p>
 
 <p align="center">
