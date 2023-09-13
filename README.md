@@ -5,6 +5,10 @@
 
 <p align="center">
   🔭 Feel Free to Check out my <strong> 🍃 Functional Programing Repository 🍃 </strong> : <a href="https://github.com/Mruruc/Functional_Programing">https://github.com/Mruruc/Functional_Programing</a>
+</p> 
+<br/>
+<p align="center">
+  &#128269; Would like to dive into Fronted &#127757; with me ? if yes,  &#128073; <a href="https://github.com/Mruruc/HTML-CSS-React" ><em>HTML,CSS and React</em></a> 
 </p>
 
 <p align="center">
