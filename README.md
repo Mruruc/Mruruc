@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  ⚡ Fun Fact: I bring cheerfulness into every code I write, believing a positive attitude helps in solving the toughest of problems!
+  ⚡ Fun Fact: I bring cheerfulness into every code I write, believing a positive attitude helps in solving the toughest of problems !
 </p>
 
 <h2 align="center">🔗 Connect with me:</h2>
