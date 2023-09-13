@@ -15,17 +15,17 @@
 <p align="center">
   💬 Feel free to ask me about my journey, my projects, and any technical queries related to:
 <ul align="center">
-  <li>Java</li>
-  <li>Spring</li>
-  <li>RDBMS</li>
-  <li>SQL</li>
-  <li>NoSQL MongoDB</li>
-  <li>JavaScript</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>React</li>
-  <li>FullStack Development</li>
-  <li>Web App Development</li>
+  <li align="center">Java</li>
+  <li align="center">Spring</li>
+  <li align="center">RDBMS</li>
+  <li align="center">SQL</li>
+  <li align="center">NoSQL MongoDB</li>
+  <li align="center">JavaScript</li>
+  <li align="center">HTML</li>
+  <li align="center">CSS</li>
+  <li align="center">React</li>
+  <li align="center">FullStack Development</li>
+  <li align="center">Web App Development</li>
 </ul>
 </p>
 
