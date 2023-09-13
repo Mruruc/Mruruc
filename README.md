@@ -13,7 +13,20 @@
 
 
 <p align="center">
-  💬 Feel free to ask me about my journey, my projects, and any technical queries related to Java, Spring, SQL,MongoDB,JavaScript,HTML,CSS,React,FullStack Development or Web App Development. 
+  💬 Feel free to ask me about my journey, my projects, and any technical queries related to:
+<ul>
+  <li>Java</li>
+  <li>Spring</li>
+  <li>RDBMS</li>
+  <li>SQL</li>
+  <li>NoSQL MongoDB</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>React</li>
+  <li>FullStack Development</li>
+  <li>Web App Development</li>
+</ul>
 </p>
 
 <p align="center">
