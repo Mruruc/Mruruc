@@ -14,7 +14,7 @@
 
 <p align="center">
   💬 Feel free to ask me about my journey, my projects, and any technical queries related to:
-<ul>
+<ul align="center">
   <li>Java</li>
   <li>Spring</li>
   <li>RDBMS</li>
