@@ -14,7 +14,9 @@
   World of Spring with JPA,Rest API design and many Projects.
     </a>
 </p> 
-  
+  <p align="center"> 
+  The ❤️ of Web,  &#128073; <a href="https://github.com/Mruruc/JavaScript_v1"><em>JavaScript</em></a>
+  </p>
 <p align="center">
   &#128269; Would like to dive into Fronted &#127757; with me ? if yes,  &#128073; <a href="https://github.com/Mruruc/HTML-CSS-React" ><em>HTML,CSS and React</em></a> 
 </p>
