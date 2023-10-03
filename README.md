@@ -17,8 +17,11 @@
   <p align="center"> 
   The ❤️ of Web,  &#128073; <a href="https://github.com/Mruruc/JavaScript_v1"><em>JavaScript</em></a>
   </p>
+   <p align="center"> 
+  The ⭐ of UI,  &#128073; <a href="https://github.com/Mruruc/React_v1"><em>React</em></a>
+  </p>
 <p align="center">
-  &#128269; Would like to dive into Fronted &#127757; with me ? if yes,  &#128073; <a href="https://github.com/Mruruc/HTML-CSS-React" ><em>HTML,CSS and React</em></a> 
+  &#128269; Would like to dive into Fronted &#127757; with me ? if yes,  &#128073; <a href="https://github.com/Mruruc/HTML-CSS-React" ><em>HTML and CSS </em></a> 
 </p>
 
 <p align="center">
