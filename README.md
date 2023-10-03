@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  🔭 Check out my projects here: <a href="https://github.com/Mruruc/FullStackApplications">https://github.com/Mruruc/FullStackApplications</a>
+  🔭 Check out my Full-Stack Applications here: <a href="https://github.com/Mruruc/FullStackApplications">Full-Stack Applications</a>
 </p>
 
 
