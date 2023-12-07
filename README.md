@@ -31,7 +31,7 @@
 
 <p align="center">
   💬 Feel free to ask me about my journey, my projects, and any technical queries related to:
-<ul align="center" , style="list-style-type:none;">
+<ul align="center" , list-style-type"none;">
   <li align="center">Java</li>
   <li align="center">JDBC</li>
   <li align="center">Servlet & JSP</li>
