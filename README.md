@@ -31,10 +31,13 @@
 
 <p align="center">
   💬 Feel free to ask me about my journey, my projects, and any technical queries related to:
-<ul align="center">
+<ul align="center" style="list-style-type:none;">
   <li align="center">Java</li>
+  <li align="center">JDBC</li>
+  <li align="center">Servlet & JSP</li>
   <li align="center">Spring</li>
   <li align="center">RDBMS</li>
+  <li align="center">PostgreSQL</li>
   <li align="center">SQL</li>
   <li align="center">NoSQL MongoDB</li>
   <li align="center">JavaScript</li>
@@ -43,6 +46,9 @@
   <li align="center">React</li>
   <li align="center">FullStack Development</li>
   <li align="center">Web App Development</li>
+  <li align="center">Network Technology</li>
+  <li align="center">Linux</li>
+  <li align="center">Bash Scripting</li>
 </ul>
 </p>
 
