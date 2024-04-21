@@ -49,6 +49,8 @@
   <li align="center">Network Technology</li>
   <li align="center">Linux</li>
   <li align="center">Bash Scripting</li>
+  <li align="center">Docker</li>
+  <li align="center">PHP</li>
 </ul>
 </p>
 
