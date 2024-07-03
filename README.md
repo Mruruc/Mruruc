@@ -29,33 +29,9 @@
 </p>
 
 
-<p align="center">
-  💬 Feel free to ask me about my journey, my projects, and any technical queries related to:
-<ul align="center" , list-style-type="none;">
-  <li align="center">Java</li>
-  <li align="center">JDBC</li>
-  <li align="center">Servlet & JSP</li>
-  <li align="center">Spring</li>
-  <li align="center">RDBMS</li>
-  <li align="center">PostgreSQL</li>
-  <li align="center">SQL</li>
-  <li align="center">NoSQL MongoDB</li>
-  <li align="center">JavaScript</li>
-  <li align="center">HTML</li>
-  <li align="center">CSS</li>
-  <li align="center">React</li>
-  <li align="center">FullStack Development</li>
-  <li align="center">Web App Development</li>
-  <li align="center">Network Technology</li>
-  <li align="center">Linux</li>
-  <li align="center">Bash Scripting</li>
-  <li align="center">Docker</li>
-  <li align="center">PHP</li>
-</ul>
-</p>
 
 <p align="center">
-  ⚡ Fun Fact: I bring cheerfulness into every code I write, believing a positive attitude helps in solving the toughest of problems !
+  ⚡ Fun Fact: Do not forget bring cheerfulness into every code You write, because a positive attitude helps in solving the toughest of problems !
 </p>
 
 <h2 align="center">🔗 Connect with me:</h2>
