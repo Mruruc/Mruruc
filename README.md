@@ -90,14 +90,11 @@
         </tr>
          <tr>
            <td>
-                 🔭 Check out my Full-Stack Applications here: <a href="https://github.com/Mruruc/FullStackApplications">Full-Stack Applications</a>
+                 🔭  Full-Stack Applications here: <a href="https://github.com/Mruruc/FullStackApplications">Web-services 🔗 Client</a>
            </td>
         </tr>
     </tbody>
 </table>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#Mruruc&theme=dracula&hide_border=true)
-
 
 ## Stats📈 
 <p align="center"> 
