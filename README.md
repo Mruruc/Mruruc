@@ -22,9 +22,9 @@
     <tbody>
        <tr>
            <td>
-                 <strong> Microservices with Spring ecosystem </strong> 
-                 <a href="https://github.com/Mruruc/Functional_Programing">
-                <em> &#9935; Service-to-Service communication, Service discovery and registery, Reverse proxy and Inteligent routing ....</em>
+                 <strong> ⚙️ Microservices with 🍃 Spring ecosystem ⚙️ </strong> 
+                 <a href="https://github.com/Mruruc/social-media-app-microservice">
+                <em> &#9935; Service-to-service communication, Service discovery and registery, Reverse proxy and Inteligent routing ....</em>
                  </a>
            </td>
         </tr>
