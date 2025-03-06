@@ -30,6 +30,14 @@
         </tr>
         <tr>
            <td>
+              <strong> 🚀 Kafka with 💰 Loan & Repayment Microservices Architecture 🔄 </strong>  
+              <a href="https://github.com/Mruruc/kafka-loan-microservices">
+                  <em> 🌍 A loan & repayment microservices architecture using Apache Kafka to integrate and orchestrate flows in a fintech environment. </em>  
+              </a>
+          </td>
+        </tr>
+        <tr>
+           <td>
                  <strong> 🔭  🍃 Functional Programming in Java 🍃 </strong> 
                  <a href="https://github.com/Mruruc/Functional_Programing">
                 <em> &#9935;  Lambda Expression,Functional Interface and Stream API .</em>
